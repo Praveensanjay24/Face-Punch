@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"face_punch", origin, size)) {
+=======
+  if (!window.Create(L"face_detection", origin, size)) {
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

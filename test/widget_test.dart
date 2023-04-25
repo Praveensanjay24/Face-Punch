@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:face_punch/main.dart';
+=======
+import 'package:face_detection/main.dart';
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

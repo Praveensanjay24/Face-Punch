@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(face_punch LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "face_punch")
+=======
+project(face_detection LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "face_detection")
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

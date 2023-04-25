@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: face_punch
+=======
+name: face_detection
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,14 +34,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   camera: ^0.10.4
   face_detection: ^0.0.6
+=======
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
   image_picker: ^0.8.4+3
   http: ^0.13.3
   fluttertoast: ^8.0.7
   flutter_spinkit: ^5.1.0
+<<<<<<< HEAD
   path_provider: ^2.0.9
   path: ^1.8.0
+=======
+
+
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -67,8 +79,13 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
+<<<<<<< HEAD
   assets:
      - images/nx_vision.png
+=======
+  # assets:
+  #   - images/a_dot_burr.jpeg
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

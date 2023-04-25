@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "face_punch",
     "short_name": "face_punch",
+=======
+    "name": "face_detection",
+    "short_name": "face_detection",
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.face_punch">
    <application
         android:label="face_punch"
+=======
+    package="com.example.face_detection">
+   <application
+        android:label="face_detection"
+>>>>>>> e20c1d8fbf15f25aec22b30abf7fe296264d2575
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
